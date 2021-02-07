@@ -9,7 +9,9 @@ In this project you will be able to make a fully fledged device which will be ab
 
 1) Blues Wireless Feather Starter Kit [https://shop.blues.io/products/feather-starter-kit]
 
-2) SeeedStudio Grove 3-Axis Accelerometer Sensor [https://www.seeedstudio.com/Grove-3-Axis-Digital-Accelerometer-16g.html]
+2) Adafruit Stemma QT LIS3DH Triple-Axis Accelerometer Sensor [https://www.adafruit.com/product/2809]
+
+3) Adafruit Stemma OT Connector [https://www.adafruit.com/product/4209]
 
 **Software Required :**
 
